@@ -9,7 +9,7 @@ description = {
    summary = "Powerful QT interface to Lua",
    detailed = [[
    ]],
-   homepage = "https://github.com/torch/qtlua",
+   homepage = "https://github.com/gothma/qtlua",
    license = "BSD"
 }
 
