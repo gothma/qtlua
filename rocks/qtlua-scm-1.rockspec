@@ -2,14 +2,14 @@ package = "qtlua"
 version = "scm-1"
 
 source = {
-   url = "git://github.com/torch/qtlua.git",
+   url = "git://github.com/gothma/qtlua.git",
 }
 
 description = {
    summary = "Powerful QT interface to Lua",
    detailed = [[
    ]],
-   homepage = "https://github.com/gothma/qtlua",
+   homepage = "https://github.com/torch/qtlua",
    license = "BSD"
 }
 
